@@ -1,0 +1,7 @@
+name: genAI4beg
+channels:  
+ - defaults
+dependencies:  
+- python=3.10.8 
+- openai  
+- python-dotenv
